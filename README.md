@@ -1,6 +1,6 @@
 # Clean-Blog-WordPress-Theme
 simple wordpress theme quickly put together as twentyfifteen child  
-based on [startbootstrap's clean blog](http://startbootstrap.com/template-overviews/clean-blog/) and wp defaut 2015 theme.  
+based on [startbootstrap's clean blog](http://ironsummitmedia.github.io/startbootstrap-clean-blog/) and wp defaut 2015 theme.  
   
 note. I probably screwed up chown somewhere along the way so if you want to install this maybe you want to wait until I fix it.  
   
